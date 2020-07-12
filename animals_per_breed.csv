@@ -1,0 +1,34 @@
+breed,warning,species,total
+Dalmatian,"No warning",dog,5
+"Siberian Husky","No warning",dog,5
+"Boston Terrier","No warning",dog,5
+"Akita Inu","No warning",dog,2
+Poodle,"No warning",dog,5
+"French Terrier","No warning",dog,5
+Pomeranian,"No warning",dog,4
+Dachshund,"No warning",dog,3
+"Australian Shepherd","No warning",dog,8
+Keeshond,"No warning",dog,7
+"Russian Blue","No warning",cat,3
+Ragdoll,"No warning",cat,5
+"Norwegian Forest","No warning",cat,3
+Persian,"No warning",cat,3
+Sphynx,"No warning",cat,8
+"Maine Coon","No warning",cat,6
+"British shorthair","No warning",cat,5
+"Turkish Angora","No warning",cat,5
+"Egyptian Mau","No warning",cat,5
+Bengal,"No warning",cat,7
+Bunny,"No warning",small_animal,6
+Mouse,"No warning",small_animal,2
+Rat,"No warning",small_animal,2
+Budgie,"No warning",small_animal,8
+Gerbil,"No warning",small_animal,5
+Tarantula,"Dangerous animal",small_animal,8
+Python,"Dangerous animal",small_animal,2
+Hamster,"No warning",small_animal,2
+Chincilla,"No warning",small_animal,4
+Ferret,"No warning",small_animal,6
+Fish,"No warning",other,4
+Alligator,"Dangerous animal",other,4
+Ocelot,"Dangerous animal",other,5
